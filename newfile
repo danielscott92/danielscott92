@@ -2,4 +2,6 @@ This is a new file. What type of file will it be? I don't know, but soon we shal
 
 Update-01 05/17/23: Apparently this does nothing other than store unspecified code into an unspecified file...
 
-Update-02 05/17/23: I've created a new (feature?) branch off the main (default) branch. This commment will serve as a proof of concept test. I also will be changing the commit message and committing directly. 
+Update-02 05/17/23: I've created a new (feature) branch off the defaul (main) branch. This commment will serve as a proof of concept test. I also will be changing the commit message and committing directly. 
+
+Update-03 05/17/23: Successfully created a new branch. Now attempting to create a new branch with the commit also starting a pull request.
